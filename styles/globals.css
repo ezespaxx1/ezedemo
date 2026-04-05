@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  background: #f6f1e8;
+}
+
+.path-lines {
+  background-image:
+    linear-gradient(118deg, transparent 45%, rgba(185, 151, 91, 0.35) 49%, transparent 53%),
+    linear-gradient(62deg, transparent 48%, rgba(94, 107, 87, 0.28) 52%, transparent 55%);
+  background-size: 220px 220px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
+}
