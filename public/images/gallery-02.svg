@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" fill="none">
+  <rect width="1200" height="900" fill="#F6F1E8"/>
+  <path d="M160 740C360 520 460 420 600 160C740 420 840 520 1040 740" stroke="#5E6B57" stroke-width="3"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#6A4E42" font-family="serif" font-size="58">Gallery Placeholder</text>
+</svg>
